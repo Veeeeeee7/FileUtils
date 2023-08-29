@@ -1,5 +1,3 @@
-package FileWriter;
-
 public class Tester {
     public static void main(String[] args) {
         FileEditor.createFile("test");
